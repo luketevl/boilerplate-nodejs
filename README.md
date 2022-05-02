@@ -25,4 +25,4 @@ yarn install
 yarn build
 ```
 
-- `O arquivo que deve ser rodado fica dentro da pasta **dist/**`
+- `Server the folder **dist/**`
